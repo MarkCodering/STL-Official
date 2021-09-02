@@ -1,0 +1,22 @@
+.Home_Background{
+    background-image: url('./background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    width: 100vw;
+}
+
+.Home_Title{
+    font-size: 350%;
+    color: white;
+    text-align: center;
+    padding-top: 20%;
+    margin: 0%;
+}
+
+.Home_Subtitle{
+    font-size: 150%;
+    color: white;
+    text-align: center;
+}
